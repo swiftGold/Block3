@@ -71,7 +71,7 @@ rectagle.calcArea()
 
 extension Rectagle {
   func calcAreaFromExtension() {
-    print(height * width)
+    calcArea()
   }
 }
 
